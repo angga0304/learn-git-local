@@ -3,8 +3,8 @@ def menu_view
   puts '#          Welcome to Battle Arena           #'
   puts "#--------------------------------------------#"
   puts "#Description :                               #"
-  puts '# 1. ketik "new" untuk membuat karakter      #'
-  puts '# 2. ketik "start" untuk memulai pertarungan #'
+  puts '# 1. ketik "1" untuk membuat karakter      #'
+  puts '# 2. ketik "2" untuk memulai pertarungan #'
   puts "# 3. Keluar                                  #"
   puts "#--------------------------------------------#"
 end
